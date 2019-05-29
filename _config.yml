@@ -1,6 +1,6 @@
 title: Mario Chamorro
 url: "https://www.mariochamorro.com"
-baseurl: "/researcher"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
