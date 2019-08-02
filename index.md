@@ -6,7 +6,7 @@ layout: default
 
 Digital professional with proven experience in business development, strategy, operations and project management in the online gaming industry. 
 
-Entrepreneurial mindset, having founded two businesses in different industries (food delivery, cleaning marketplace) with mixed results. 
+Entrepreneurial mindset, having founded two businesses in different industries (food delivery, cleaning marketplace). 
 
 Highly analytical profile with wide experience assisting online companies in the definition and implementation of strategic solutions.
 
