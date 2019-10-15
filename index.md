@@ -34,7 +34,7 @@ Highly analytical profile with wide experience assisting online companies in the
 
 
 ## Recent articles
-- [The simulation hypothesis and the ultimate religion](https://hackernoon.com/the-simulation-hypothesis-and-the-ultimate-religion-3aa61b12c034)
+- [The simulation hypothesis and the ultimate religion](https://medium.com/hackernoon/the-simulation-hypothesis-and-the-ultimate-religion-3aa61b12c034)
 - [John McAfee crypto recommendations were total bullshit. Let´s see the numbers](https://medium.com/@mariochamorro/john-mcafee-crypto-recommendations-were-total-bullshit-let-s-see-the-numbers-2c59e88b64f5)
 - [Transhumanism 101 — Everything you need to know about the world without death](https://medium.com/@mariochamorro/transhumanism-101-everything-you-need-to-know-about-the-world-without-death-41cf11d264f9)
 - [Crypto and gambling industries are more similar than it seems
