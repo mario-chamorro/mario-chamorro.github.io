@@ -11,7 +11,8 @@ Entrepreneurial mindset, having founded two businesses in different industries (
 Highly analytical profile with wide experience assisting online companies in the definition and implementation of strategic solutions.
 
 ## Experience
-- 2012 - Present: **Strategic Consultant** @[**MAG**](https://mag-ca.it/)
+- 2019 - Present: **Manager** @[**MDF Partners**](https://www.mdfpartners.com/)
+- 2012 - 2019: **Strategic Consultant** @[**MAG**](https://mag-ca.it/)
 - 2014 - 2015: **Co-Founder and Partner**  @**Cleanworks**
 - 2013 - 2015: **Co-Founder and Partner** @**Pandabox Food Delivery**
 - 2011 - 2012: **Analyst** @[**BBVA**](https://www.bbva.com)
